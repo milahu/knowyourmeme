@@ -9,3 +9,9 @@ because knowyourmeme.com is ruled by idiots.
 
 - [Comforting Lies versus Unpleasant Truths](memes/comforting-lies-versus-unpleasant-truths/readme.md) ([censored](memes/comforting-lies-versus-unpleasant-truths/censored.md))
 - [Waves of Destruction](memes/waves-of-destruction/readme.md)
+
+
+
+## related
+
+- [github.com/milahu/memes-svg](https://github.com/milahu/memes-svg)
